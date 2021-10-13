@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\bin\Debug\netcoreapp3.1\week7Arrays.exe
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\bin\Debug\netcoreapp3.1\week7Arrays.deps.json
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\bin\Debug\netcoreapp3.1\week7Arrays.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\bin\Debug\netcoreapp3.1\week7Arrays.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\bin\Debug\netcoreapp3.1\week7Arrays.dll
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\bin\Debug\netcoreapp3.1\week7Arrays.pdb
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\obj\Debug\netcoreapp3.1\week7Arrays.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\obj\Debug\netcoreapp3.1\week7Arrays.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\obj\Debug\netcoreapp3.1\week7Arrays.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\obj\Debug\netcoreapp3.1\week7Arrays.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\obj\Debug\netcoreapp3.1\week7Arrays.dll
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\obj\Debug\netcoreapp3.1\week7Arrays.pdb
+C:\Users\opilane\source\repos\Titpe21\week7Arrays\week7Arrays\obj\Debug\netcoreapp3.1\week7Arrays.genruntimeconfig.cache
